@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CalcularMedia</string>
+    <string name="matem_ticas">Matemáticas</string>
+    <string name="f_sica">Física</string>
+    <string name="qu_mica">Química</string>
+    <string name="media_del_alumno">Media del alumno</string>
+    <string name="calcular_media">Calcular media</string>
+</resources>
